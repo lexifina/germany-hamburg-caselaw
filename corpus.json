@@ -1,0 +1,17 @@
+{
+  "corpus": "de/hamburg/caselaw",
+  "path": "germany/hamburg/caselaw",
+  "scope": "selected-acts",
+  "acts": 11712,
+  "future_branch": "future",
+  "publisher": "Behörde für Justiz und Verbraucherschutz, Freie und Hansestadt Hamburg",
+  "name": "Hamburg published court decisions",
+  "language": "de",
+  "coverage": "11712 of 12399 source-listed decisions (94.5%). Only decisions selected for publication by the portal are in scope. Image-bearing decisions are excluded. The latest included decision is dated 2026-10-28; coverage of the intervening dates is incomplete.",
+  "history": "as-enacted",
+  "history_from": "2010-01-04",
+  "record_to": "2026-10-28",
+  "checked_on": "2026-11-12",
+  "record_note": "11712 of 12399 source-listed decisions (94.5%). Only decisions selected for publication by the portal are in scope. Image-bearing decisions are excluded. The latest included decision is dated 2026-10-28; coverage of the intervening dates is incomplete.",
+  "in_force_trailer": "In-force"
+}
